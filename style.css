@@ -93,8 +93,9 @@ main::after {
 
 .botao {
     border: none;
-    background: none;
+    background: #000000;
     cursor: pointer;
+    border-radius: 50%;
 }
 
 .botao img {
